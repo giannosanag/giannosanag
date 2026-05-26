@@ -3,7 +3,8 @@ Hi, I'm Giannos 👋
 Computer Science student at the National and Kapodistrian University of Athens, currently working in the IT department of a naval shipping company.
 I enjoy combining software engineering, networking, AI, and infrastructure to solve real-world problems.
 
-🚀 About Me
+🚀 About Me:
+
 🎓 Studying Computer Science & Telecommunications
 ⚓ Working with vessel IT infrastructure and maritime systems
 🌐 Interested in Networking, AI Engineering, Machine Learning, and Systems
