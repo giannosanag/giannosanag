@@ -106,13 +106,3 @@ Supporting:
 - Advanced backend systems
 - Cloud & infrastructure automation
 
----
-
-## 📫 Connect With Me
-
-- GitHub: your-github-link
-- LinkedIn: your-linkedin-link
-
----
-
-> “Technology is best when it solves real operational problems.”
